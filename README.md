@@ -19,7 +19,6 @@ This project uses the **LeapGestRecog dataset** from Kaggle, which contains 10 d
 - Preprocess the raw images for training and testing.
 - Build a **Convolutional Neural Network (CNN)** model to classify gestures.
 - Train and evaluate the model on the Kaggle dataset.
-- Provide visualizations for training accuracy, loss, and prediction results.
 - Develop a scalable pipeline for real-world applications.
 
 ---
@@ -133,10 +132,3 @@ Contributions are welcome! If you'd like to improve the project, please fork the
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙋 About Me
-I'm **Harsh Patel**, a Machine Learning enthusiast passionate about building practical AI solutions.  
-- 💼 Open to internships and entry-level ML engineer roles.  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/).
